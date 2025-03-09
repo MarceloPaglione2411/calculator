@@ -1,5 +1,6 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://dev.azure.com/linkmarcelopaglione/Integra%C3%A7%C3%A3o%20de%20codigo%20externo%20com%20Azure%20Pipelines/_apis/build/status%2FMarceloPaglione2411.calculator?branchName=master)](https://dev.azure.com/linkmarcelopaglione/Integra%C3%A7%C3%A3o%20de%20codigo%20externo%20com%20Azure%20Pipelines/_build/latest?definitionId=9&branchName=master)
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
